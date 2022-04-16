@@ -11,13 +11,23 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
+<<<<<<< HEAD
 ```
 cd kodluyoruzilkrepo
 code .
+=======
+``` 
+cd kodluyoruzilkrepo
+code . 
+>>>>>>> 0275a13d3bf1de8cfa0a3943e99e253dc98cb83e
 ```
 
 # Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
+<<<<<<< HEAD
 [MIT](https://choosealicense.com/licenses/mit/)
+=======
+[MIT](https://choosealicense.com/licenses/mit/)
+>>>>>>> 0275a13d3bf1de8cfa0a3943e99e253dc98cb83e
